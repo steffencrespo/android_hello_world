@@ -1,0 +1,3 @@
+[submodule "android_hello_world_test"]
+	path = android_hello_world_test
+	url = https://github.com/steffencrespo/android_hello_world_test.git
